@@ -15,13 +15,11 @@
 Hello <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20px"> My name is Ulul Azmi, I am a **Software Engineering Student** 🎓 at [Politeknik Negeri Bengkalis](https://www.official.polbeng.ac.id) from Indonesia 🇲🇨 \
 I am currently studying with Studi Independen at Kampus Merdeka on [Menjadi Backend Developer Expert](https://kampusmerdeka.kemdikbud.go.id/activity/active/detail/2014683) ✍️
 
-**Connect 🤝 with me on:**
+#### Connect 🤝 with me on:
 - [<img height="14em" src="https://github.com/ululazmi41/learning-markdown/blob/main/In-Blue-14@2x.png?raw=true"/>](https://www.linkedin.com/in/ulul-azmi-03a809215/) [LinkedIn](https://www.linkedin.com/in/ulul-azmi-03a809215/)
 - [<img height="14em" src="https://external-content.duckduckgo.com/ip3/www.instagram.com.ico"/>](https://www.linkedin.com/in/ulul-azmi-03a809215/) [Instagram](https://www.instagram.com/ulul_azmi__144/)
 
----
-
-**Languages**\
+#### Languages
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,8 +29,7 @@ I am currently studying with Studi Independen at Kampus Merdeka on [Menjadi Back
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
-**Frameworks, Platforms, and Libraries**\
+#### Frameworks, Platforms, and Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -45,13 +42,13 @@ I am currently studying with Studi Independen at Kampus Merdeka on [Menjadi Back
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-**Databases**\
+#### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tools**\
+#### Tools
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -61,12 +58,12 @@ I am currently studying with Studi Independen at Kampus Merdeka on [Menjadi Back
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
-**Forums**\
+#### Forums
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/13252135/ulul-azmi)
 
 ---
 
-### :fire: My Stats :
+### My Stats
 
 [![Ulul Azmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ululazmi41&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ululazmi41&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
