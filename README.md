@@ -12,12 +12,14 @@
 
 ---
 
-Hello <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20px"> My name is Ulul Azmi, I am a **Software Engineering Student** at [Politeknik Negeri Bengkalis](https://www.official.polbeng.ac.id) 🎓\
+Hello <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20px"> My name is Ulul Azmi, I am a **Software Engineering Student** 🎓 at [Politeknik Negeri Bengkalis](https://www.official.polbeng.ac.id) from Indonesia 🇲🇨 \
 I am currently studying with Studi Independen at Kampus Merdeka on [Menjadi Backend Developer Expert](https://kampusmerdeka.kemdikbud.go.id/activity/active/detail/2014683) ✍️
 
-Connect 🤝 with me on
+**Connect 🤝 with me on:**
 - [<img height="14em" src="https://github.com/ululazmi41/learning-markdown/blob/main/In-Blue-14@2x.png?raw=true"/>](https://www.linkedin.com/in/ulul-azmi-03a809215/) [LinkedIn](https://www.linkedin.com/in/ulul-azmi-03a809215/)
 - [<img height="14em" src="https://external-content.duckduckgo.com/ip3/www.instagram.com.ico"/>](https://www.linkedin.com/in/ulul-azmi-03a809215/) [Instagram](https://www.instagram.com/ulul_azmi__144/)
+
+---
 
 **Languages**\
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -57,6 +59,10 @@ Connect 🤝 with me on
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+### :fire: My Stats :
 
 [![Ulul Azmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ululazmi41&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ululazmi41&layout=compact&theme=city_lights)](https://github.com/ululazmi41/github-readme-stats)
