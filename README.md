@@ -59,5 +59,5 @@ I am currently studying with Studi Independen at Kampus Merdeka on [Menjadi Back
 
 ### GitHub Stats
 
-<img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=ululazmi41&theme=city_lights"/>
+<img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=ululazmi41&show_icons=true&include_all_commits=true&count_private=true&theme=city_lights"/>
 <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ululazmi41&layout=compact&theme=city_lights"/>
