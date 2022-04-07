@@ -65,7 +65,7 @@ I am currently studying with Studi Independen at Kampus Merdeka on [Menjadi Back
 
 ---
 
-### My Stats
+### GitHub Stats
 
-[![Ulul Azmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ululazmi41&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ululazmi41&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ululazmi41&theme=city_lights"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ululazmi41&layout=compact&theme=city_lights"/>
