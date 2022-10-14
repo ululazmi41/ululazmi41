@@ -8,18 +8,28 @@
   <a href="https://www.instagram.com/ulul_azmi__144/">
     <img src="https://img.shields.io/badge/ulul_azmi__144-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
+  <a href="twitter.com/ulazmi41/">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+  </a>
 </div>
 
 ---
 
-Hello <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20px"> My name is Ulul Azmi, I am a **Software Engineering Student** 🎓 at [Politeknik Negeri Bengkalis](https://www.official.polbeng.ac.id) from Indonesia 🇲🇨 \
-I am currently studying with Studi Independen at Kampus Merdeka on [Menjadi Backend Developer Expert](https://kampusmerdeka.kemdikbud.go.id/activity/active/detail/2014683) ✍️
+Hello <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20px"> My name is Ulul Azmi, I am a college student majoring in **Software Engineering** 🎓 at [Politeknik Negeri Bengkalis](https://www.official.polbeng.ac.id) from Indonesia! 🇲🇨
+
+I am currently participating at Lintasarta's Cloudeka Digischool on Full-Stack Developer! ✍️
+
+Education Experience:
+- [2022] Lintasarta's Cloudeka Digischool 🍉
+- [2022] Participating in Studi Independen Bersertifikat at Kampus Merdeka on [Menjadi Multi-Platform dan Backend Developer Expert](https://kampusmerdeka.kemdikbud.go.id/activity/active/detail/2014683) ✔️
+- [2021] Digitalent Schlarship ✔️
 
 #### Connect 🤝 with me on:
-- [<img height="14em" src="https://github.com/ululazmi41/learning-markdown/blob/main/In-Blue-14@2x.png?raw=true"/>](https://www.linkedin.com/in/ulul-azmi-03a809215/) [LinkedIn](https://www.linkedin.com/in/ulul-azmi-03a809215/)
-- [<img height="14em" src="https://external-content.duckduckgo.com/ip3/www.instagram.com.ico"/>](https://www.linkedin.com/in/ulul-azmi-03a809215/) [Instagram](https://www.instagram.com/ulul_azmi__144/)
+- [<img width="18em" src="https://github.com/ululazmi41/learning-markdown/blob/main/In-Blue-14@2x.png?raw=true"/>](https://www.linkedin.com/in/ulul-azmi-03a809215/) [LinkedIn](https://www.linkedin.com/in/ulul-azmi-03a809215/)
+- [<img width="18em" src="https://external-content.duckduckgo.com/ip3/www.instagram.com.ico"/>](https://www.instagram.com/ulul_azmi__144/) [Instagram](https://www.instagram.com/ulul_azmi__144/)
+- [<img width="18em" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F04%2FTwitter-Logo.png&f=1&nofb=1&ipt=159e78b4db354bcdd9be753826a5d2739d7c0fee0bc85928e26cebcad07a05f8&ipo=images">](twitter.com/ulazmi41/) [Twitter](twitter.com/ulazmi41/)
 
-#### Languages
+#### Programming, Markup, and Web Languages
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
