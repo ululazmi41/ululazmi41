@@ -22,7 +22,7 @@ I am currently participating at Lintasarta's Cloudeka Digischool on Full-Stack D
 Education Experience:
 - [2022] Lintasarta's Cloudeka Digischool ✍️
 - [2022] Participating in Studi Independen Bersertifikat at Kampus Merdeka on [Menjadi Multi-Platform dan Backend Developer Expert](https://kampusmerdeka.kemdikbud.go.id/activity/active/detail/2014683) ✔️
-- [2021] Digitalent Schlarship ✔️
+- [2021] Digitalent Scholarship ✔️
 
 #### Connect 🤝 with me on:
 - [<img width="18em" src="https://github.com/ululazmi41/learning-markdown/blob/main/In-Blue-14@2x.png?raw=true"/>](https://www.linkedin.com/in/ulul-azmi-03a809215/) [LinkedIn](https://www.linkedin.com/in/ulul-azmi-03a809215/)
