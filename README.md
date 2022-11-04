@@ -15,12 +15,6 @@
 
 ---
 
-Animated sticker later:
-
-<img width="120px" src="https://24.media.tumblr.com/a8d91d9d6f197e126351464305f75dd7/tumblr_msitq5qMwW1sg2d49o1_1280.gif" />
-
-<img width="120px" src="https://25.media.tumblr.com/6f80ead7db08f6b607b2b83fea6026ad/tumblr_mkc57xGrOs1r8v8fxo1_500.gif" />
-
 Hello <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20px"> My name is Ulul Azmi, I am a college student majoring in **Software Engineering** at [Politeknik Negeri Bengkalis](https://www.official.polbeng.ac.id) 🎓 from Indonesia! 🇲🇨
 
 I am currently participating at Lintasarta's Cloudeka Digischool on Full-Stack Developer! I am at Intermediate level now 🥳
