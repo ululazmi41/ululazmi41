@@ -29,7 +29,7 @@ Education Experience:
 - [<img width="18em" src="https://external-content.duckduckgo.com/ip3/www.instagram.com.ico"/>](https://www.instagram.com/ulul_azmi__144/) [Instagram](https://www.instagram.com/ulul_azmi__144/)
 - [<img width="18em" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F04%2FTwitter-Logo.png&f=1&nofb=1&ipt=159e78b4db354bcdd9be753826a5d2739d7c0fee0bc85928e26cebcad07a05f8&ipo=images">](https://twitter.com/ululazmi41/) [Twitter](https://twitter.com/ululazmi41/)
 
-### Platforms
+#### Platforms
 ![CodinGame](https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=for-the-badge&logo=codingame&logoColor=black)
 ![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
@@ -66,6 +66,7 @@ TODO: connect the url
 TODO: Create Firestore Badge
 
 #### Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
