@@ -84,12 +84,12 @@ TODO: Create Firestore Badge
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ululazmi41&theme=github"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ululazmi41&show_icons=true&include_all_commits=true&count_private=true&theme=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ululazmi41&layout=compact&theme=github"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=ululazmi41&theme=minimal"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ululazmi41"/>
 </div>
