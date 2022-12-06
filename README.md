@@ -81,9 +81,6 @@ TODO: Create Firestore Badge
 
 TODO: Create Fresh badge
 
-#### Forums
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/13252135/ulul-azmi)
-
 ---
 
 ### GitHub Stats
@@ -94,11 +91,6 @@ TODO: Create Fresh badge
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ululazmi41&show_icons=true&include_all_commits=true&count_private=true&theme=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ululazmi41&layout=compact&theme=github"/>
-</p>
-
-
-<p align="left">
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=ululazmi41&theme=minimal"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ululazmi41"/>
 </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ululazmi41&layout=compact&theme=github"/>
