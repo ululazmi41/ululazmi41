@@ -15,12 +15,21 @@
 
 ---
 
-Hello <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20px"> My name is Ulul Azmi, I am a college student majoring in **Software Engineering** at [Politeknik Negeri Bengkalis](https://www.official.polbeng.ac.id) 🎓 from Indonesia! 🇲🇨
+Hello <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20px"> My name is Ulul Azmi, a college student majoring in **Software Engineering** at [Politeknik Negeri Bengkalis](https://www.official.polbeng.ac.id) 🎓 from Indonesia! 🇲🇨
 
-I am currently participating at Lintasarta's Cloudeka Digischool on Full-Stack Developer! I am at Expert level now 🥳
+I am at Expert level on both Mobile Development and Web Development 🥳
+
+Industry Experience:
+
+- [2022] PT. Aplikanusa Lintasarta Duri as an Intern
+  - Building Mobile App with Flutter, and
+  - Server with Node.js
+  - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 Education Experience:
-- [2022] Lintasarta's Cloudeka Digischool on [Full-Stack Developer](https://www.cloudeka.id/lintasartadigischool/2022) ✍️
+- [2022] Lintasarta's Cloudeka Digischool on [Full-Stack Developer](https://www.cloudeka.id/lintasartadigischool/2022) ✔️
 - [2022] Participating in Studi Independen Bersertifikat at Kampus Merdeka on [Menjadi Multi-Platform dan Backend Developer Expert](https://kampusmerdeka.kemdikbud.go.id/activity/active/detail/2014683) ✔️
 - [2021] Digitalent Scholarship ✔️
 
@@ -36,7 +45,7 @@ TODO: "Pretty"-fy
 ![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-TODO: connect the url
+TODO: connect the urls
 
 #### Programming, Markup, and Web Languages
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
