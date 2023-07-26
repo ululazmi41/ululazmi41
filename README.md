@@ -101,8 +101,8 @@ TODO: Create Fresh badge
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ululazmi41&theme=github"/>
 </p>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ululazmi41&layout=compact&theme=github"/>
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ululazmi41&show_icons=true&include_all_commits=true&count_private=true&theme=github"/>
 </p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ululazmi41&layout=compact&theme=github"/>
