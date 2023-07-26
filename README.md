@@ -44,6 +44,7 @@ TODO: "Pretty"-fy
 ![CodinGame](https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=for-the-badge&logo=codingame&logoColor=black)
 ![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![hackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 
 TODO: connect the urls
 
