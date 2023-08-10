@@ -21,7 +21,7 @@ I am at Expert level on both Mobile Development and Web Development 🥳
 
 ## Experience
 
-- [2022] PT. Aplikanusa Lintasarta Duri as **Intern** ✔️
+- [2023] PT. Aplikanusa Lintasarta Duri as **Intern** ✔️
   - Building Mobile App with Flutter, and
   - Server with Node.js
   - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
