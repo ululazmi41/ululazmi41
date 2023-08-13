@@ -39,9 +39,9 @@ I am at Expert level on both Mobile Development and Web Development 🥳
 - [2021] Digitalent Scholarship ✔️
 
 ## Connect 🤝 With Me
-- [<img width="18em" src="https://github.com/ululazmi41/learning-markdown/blob/main/In-Blue-14@2x.png?raw=true"/>](https://www.linkedin.com/in/ulul-azmi-03a809215/) [LinkedIn](https://www.linkedin.com/in/ulul-azmi-03a809215/)
-- [<img width="18em" src="https://external-content.duckduckgo.com/ip3/www.instagram.com.ico"/>](https://www.instagram.com/ulul_azmi__144/) [Instagram](https://www.instagram.com/ulul_azmi__144/)
-- [<img width="18em" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F04%2FTwitter-Logo.png&f=1&nofb=1&ipt=159e78b4db354bcdd9be753826a5d2739d7c0fee0bc85928e26cebcad07a05f8&ipo=images">](https://twitter.com/ululazmi41/) [Twitter](https://twitter.com/ululazmi41/)
+- <code>[<img width="18em" src="https://github.com/ululazmi41/learning-markdown/blob/main/In-Blue-14@2x.png?raw=true"/>](https://www.linkedin.com/in/ulul-azmi-03a809215/) [LinkedIn](https://www.linkedin.com/in/ulul-azmi-03a809215/)</code>
+- <code>[<img width="18em" src="https://external-content.duckduckgo.com/ip3/www.instagram.com.ico"/>](https://www.instagram.com/ulul_azmi__144/) [Instagram](https://www.instagram.com/ulul_azmi__144/)</code>
+- <code>[<img width="18em" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F04%2FTwitter-Logo.png&f=1&nofb=1&ipt=159e78b4db354bcdd9be753826a5d2739d7c0fee0bc85928e26cebcad07a05f8&ipo=images">](https://twitter.com/ululazmi41/) [Twitter](https://twitter.com/ululazmi41/)</code>
 
 TODO: "Pretty"-fy
 
