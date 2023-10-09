@@ -30,7 +30,7 @@ Still trying my best ✍️
 
 ## Education
 - [2023-2024] **Beasiswa IDCamp 2023 on [React Developer](https://www.dicoding.com/learningpaths/58)** ✍️
-- [2019-2023] **Politeknik Negeri Bengkalis** majoring in **Software Engineering** 🥳
+- [2019-2023] Politeknik Negeri Bengkalis majoring in Software Engineering ✔️
 - [2023] Baparekraf Developer Day 2023 on [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/academies/80) ✔️
 - [2022] Lintasarta's Cloudeka Digischool on [Full-Stack Developer](https://www.cloudeka.id/lintasartadigischool/2022) ✔️
 - [2022] Baparekraf Developer Day 2022 on [Belajar Dasar Pemrograman Web]([https://www.dicoding.com/academies/80](https://www.dicoding.com/academies/123)) ✔️
