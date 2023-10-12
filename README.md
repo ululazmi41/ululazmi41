@@ -29,15 +29,15 @@ Still trying my best ✍️
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Education
-- [2023-2024] **Beasiswa IDCamp 2023 on [React Developer](https://www.dicoding.com/learningpaths/58)** ✍️
+- [2023-2024] Beasiswa **IDCamp 2023 on [React Developer](https://www.dicoding.com/learningpaths/58)** ✍️
 - [2019-2023] Politeknik Negeri Bengkalis majoring in Software Engineering ✔️
-- [2023] Baparekraf Developer Day 2023 on [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/academies/80) ✔️
-- [2022] Lintasarta's Cloudeka Digischool on [Full-Stack Developer](https://www.cloudeka.id/lintasartadigischool/2022) ✔️
-- [2022] Baparekraf Developer Day 2022 on [Belajar Dasar Pemrograman Web]([https://www.dicoding.com/academies/80](https://www.dicoding.com/academies/123)) ✔️
-- [2022] Kampus Merdeka's Studi Independen Bersertifikat on [Menjadi Multi-Platform dan Backend Developer Expert](https://kampusmerdeka.kemdikbud.go.id/activity/active/detail/2014683) ✔️
+- [2023] Beasiswa Baparekraf Developer Day 2023 on [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/academies/80) ✔️
+- [2022] Beasiswa Lintasarta's Cloudeka Digischool on [Full-Stack Developer](https://www.cloudeka.id/lintasartadigischool/2022) ✔️
+- [2022] Beasiswa Baparekraf Developer Day 2022 on [Belajar Dasar Pemrograman Web]([https://www.dicoding.com/academies/80](https://www.dicoding.com/academies/123)) ✔️
+- [2022] Beasiswa Kampus Merdeka's Studi Independen Bersertifikat on [Menjadi Multi-Platform dan Backend Developer Expert](https://kampusmerdeka.kemdikbud.go.id/activity/active/detail/2014683) ✔️
 - [2022] Beasiswa Dicoding on [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) ✔️
 - [2021] Beasiswa Dicoding on [Memulai Pemrograman Dengan Python](https://www.dicoding.com/academies/86) and [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/academies/184) ✔️
-- [2021] Digitalent Scholarship ✔️
+- [2021] Beasiswa Digitalent Scholarship ✔️
 
 ## Connect 🤝 With Me
 - <code>[<img width="18em" src="https://github.com/ululazmi41/learning-markdown/blob/main/In-Blue-14@2x.png?raw=true"/>](https://www.linkedin.com/in/ulul-azmi-03a809215/) [LinkedIn](https://www.linkedin.com/in/ulul-azmi-03a809215/)</code>
