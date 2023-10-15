@@ -33,7 +33,7 @@ Still trying my best ✍️
 - [2019-2023] Politeknik Negeri Bengkalis majoring in Software Engineering ✔️
 - [2023] Beasiswa Baparekraf Developer Day 2023 on [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/academies/80) ✔️
 - [2022] Beasiswa Lintasarta's Cloudeka Digischool on [Full-Stack Developer](https://www.cloudeka.id/lintasartadigischool/2022) ✔️
-- [2022] Beasiswa Baparekraf Developer Day 2022 on [Belajar Dasar Pemrograman Web]([https://www.dicoding.com/academies/80](https://www.dicoding.com/academies/123)) ✔️
+- [2022] Beasiswa Baparekraf Developer Day 2022 on [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123) ✔️
 - [2022] Beasiswa Kampus Merdeka's Studi Independen Bersertifikat on [Menjadi Multi-Platform dan Backend Developer Expert](https://kampusmerdeka.kemdikbud.go.id/activity/active/detail/2014683) ✔️
 - [2022] Beasiswa Dicoding on [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) ✔️
 - [2021] Beasiswa Dicoding on [Memulai Pemrograman Dengan Python](https://www.dicoding.com/academies/86) and [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/academies/184) ✔️
