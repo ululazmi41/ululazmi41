@@ -25,9 +25,9 @@ College student majoring in **Software Engineering** at [Politeknik Negeri Bengk
 
 ### Platforms
 
+[![CodinGame](https://img.shields.io/badge/codingame-3c341f.svg?&style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/780330388498a19ac32a37cca6bd5bb33524044)
 [![LeetCode](https://img.shields.io/badge/LeetCode-3c341f?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ululazmi/)
 [![Codewars](https://img.shields.io/badge/Codewars-3c341f?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/ululazmi)
-[![CodinGame](https://img.shields.io/badge/codingame-3c341f.svg?&style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/780330388498a19ac32a37cca6bd5bb33524044)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-3c341f?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ululazmi4bs)
 
 ### Programming and Web Languages
